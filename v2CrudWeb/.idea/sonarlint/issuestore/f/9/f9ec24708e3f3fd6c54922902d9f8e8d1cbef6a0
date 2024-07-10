@@ -1,0 +1,27 @@
+
+
+java:S11926"FDefine a constant instead of duplicating this literal "UTF-8" 6 times.(ˆö„®şÿÿÿÿ8Ù™ÔÜğ1J$d71cec9d-b666-4224-bad4-9b395fc2ac45
+”
+java:S1192"LDefine a constant instead of duplicating this literal "/ContGetAll" 3 times.(¢ş¾İüÿÿÿÿ8«×‰Ûğ1J$fe7340cc-b776-464d-ba06-ea045911a6c4
+–
+java:S11924"SDefine a constant instead of duplicating this literal " no fue encontrado" 4 times.(º€š 8Ù™ÔÜğ1J$b9eac904-251e-45b4-916c-10579c465158
+œ
+java:S11926"TDefine a constant instead of duplicating this literal "/index.jsp?mensaje=" 6 times.(ˆö„®şÿÿÿÿ8Ú™ÔÜğ1J$3449b023-8800-41d1-97ed-f344b8f6ec7d
+—
+java:S11924"TDefine a constant instead of duplicating this literal "El contacto con ID " 4 times.(º€š 8Ú™ÔÜğ1J$3e70a551-86d9-4ef9-8495-e83275caf777
+‹
+java:S11925"HDefine a constant instead of duplicating this literal "mensaje" 7 times.(÷Ñ½8Ú™ÔÜğ1J$7cfbcaac-ca59-426c-85aa-cd8bfc20f5d8
+i	java:S131""Add a default case to this switch.(œÈõ‹úÿÿÿÿ8Ş×‰Ûğ1J$ce5b4f04-e9de-4d68-ba55-2e194921c3b9
+£
+java:S1989"`Handle the following exceptions that could be thrown by "getAll": ServletException, IOException.(éÄÕ¼8à×‰Ûğ1J$b41b6273-a6aa-43ab-8040-4e5224fb8c9f
+¤
+java:S1989"aHandle the following exceptions that could be thrown by "getById": ServletException, IOException.(¡çëİ8à×‰Ûğ1J$a23157de-adac-4b78-a7c8-2925e472ac69
+ª
+java:S1989"bHandle the following exceptions that could be thrown by "contEdit": ServletException, IOException.(ª™ª¢ùÿÿÿÿ8õ™ÔÜğ1J$895ccbd5-8fec-4e5f-a7fd-7bcec6a129b2
+i	java:S131=""Add a default case to this switch.(œÈõ‹úÿÿÿÿ8ù™ÔÜğ1J$3ed6caed-8aaa-4d3e-ba93-4f2229c1f800
+”
+java:S1989?"QHandle the following exception that could be thrown by "contCreate": IOException.(÷œ©Š8ù™ÔÜğ1J$42c1a218-4332-4084-99a0-049e10d5ccb4
+”
+java:S1989B"QHandle the following exception that could be thrown by "contUpdate": IOException.(·–•Â8ú™ÔÜğ1J$ae1891f5-52cc-43a2-91e2-83dc16835c25
+”
+java:S1989E"QHandle the following exception that could be thrown by "contDelete": IOException.(¯¨Ò‰8ú™ÔÜğ1J$d0206f69-626a-4b95-b4dd-d87d40d0adb8
